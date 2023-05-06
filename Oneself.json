@@ -1,0 +1,22 @@
+{
+  "IndicatorTypes":
+  [
+    {"IndicatorID":1,},
+    {"IndicatorID":2,},
+    {"IndicatorID":3,},
+    {"IndicatorID":4,},
+    {"IndicatorID":5,},
+    {"IndicatorID":6,},
+    {"IndicatorID":7,},
+    {"IndicatorID":8,},
+    {"IndicatorID":9,},
+    {"IndicatorID":10,},
+    {"IndicatorID":11,},
+    {"IndicatorID":12,},
+    {"IndicatorID":13,},
+    {"IndicatorID":14,},
+    {"IndicatorID":15,},
+    {"IndicatorID":16,}
+  ],
+  "Status":"OK"
+}
