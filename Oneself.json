@@ -1,5 +1,5 @@
 {
-  "IndicatorTypes":
+  "TypeIndicators":
   [
     {"IndicatorID":1,"IndicatorName":"INTJ","IndicatorTitle":"Architect","IndicatorPreference1":"Introversion","IndicatorPreference2":"Intuition","IndicatorPreference3":"Thinking","IndicatorPreference4":"Judging","IndicatorImage":"https://raw.githubusercontent.com/WongMason/IT315Project2/main/architect.png","IndicatorInformationAddress":"https://www.16personalities.com/intj-personality","IndicatorCareerAddress":"https://www.truity.com/personality-type/INTJ/careers","IndicatorDescription":"Innovative, independent, strategic, logical, reserved, insightful. Driven by their own original ideas to achieve improvements."},
     {"IndicatorID":2,"IndicatorName":"INTP","IndicatorTitle":"Logician","IndicatorPreference1":"Introversion","IndicatorPreference2":"Intuition","IndicatorPreference3":"Thinking","IndicatorPreference4":"Perceiving","IndicatorImage":"https://raw.githubusercontent.com/WongMason/IT315Project2/main/logician.png","IndicatorInformationAddress":"https://www.16personalities.com/intp-personality","IndicatorCareerAddress":"https://www.truity.com/personality-type/INTP/careers","IndicatorDescription":"Intellectual, logical, precise, reserved, flexible, imaginative. Original thinkers who enjoy speculation and creative problem solving."},
